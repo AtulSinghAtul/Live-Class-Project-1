@@ -1,6 +1,6 @@
 # Project-1
 
-[Live Link](https://www.google.com "Google")
+[Live Link](https://atul-ineuron-project.netlify.app/ "Netlify")
 
 ## Name : Atul Singh
 
